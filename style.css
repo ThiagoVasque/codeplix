@@ -1,0 +1,17 @@
+body{
+    background-color: #e5e5e5;
+}
+
+.nav-extended{
+    background-image: URL("https://s2.glbimg.com/XFA41c4664k4-uMaAguIj6GApq4=/e.glbimg.com/og/ed/f/original/2020/12/09/denise-jans-oavjqz-nfd0-unsplash.jpg");
+    background-size: cover;
+}
+
+nav ul li.active, .tab a.active{
+    border-bottom: solid 2px #F3F3F3;
+    background-color: transparent;
+}
+
+.nav-header h1{
+    text-shadow: 3px 3px 3px #000000;
+}
